@@ -6,7 +6,7 @@
 - :palm_tree: I am looking to contribute to open source projects.
 - :seedling: I am currently learning everything. :joy:
 - :muscle: 2021 Goals: I want to write more blog posts.
-- :zap: Fun Fact: I am a die hard fan on One Piece
+- :zap: Fun Fact: I am a die hard fan of One Piece
 
 ### Connect with me:
 [<img align="left" alt="kshitizshakya.com.np" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
