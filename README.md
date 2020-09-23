@@ -26,6 +26,11 @@
 [<img align="left" alt="html5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][website]
 [<img align="left" alt="vscode" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vim]
 [<img align="left" alt="Vim" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vim/vim.png" />][vim]
+<br />
+
+
+---
+<img align="left" alt="Kshitiz GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=KshitizGIT&count_private=true&hide_border=true&show_icons=true" />
 
 
 [website]: https://kshitizshakya.com.np
