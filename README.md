@@ -39,6 +39,7 @@
 
 ### :closed_book: Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Asynchrony in .NET World](http://kshitizshakya.com.np/blog/asynchrony-in-net-world)
 - [Common mistake and fix in Entity Framework](http://kshitizshakya.com.np/blog/entityframework-common-mistake)
 - [Top 5 reasons why you should be using vim](http://kshitizshakya.com.np/blog/top-5-reasons-why-you-should-be-using-vim)
 <!-- BLOG-POST-LIST:END -->
