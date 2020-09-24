@@ -44,12 +44,7 @@
 - [Top 5 reasons why you should be using vim](http://kshitizshakya.com.np/blog/top-5-reasons-why-you-should-be-using-vim)
 <!-- BLOG-POST-LIST:END -->
 
-<br />
-<br />
-
-
 ---
-
 
 <img align="left" alt="Kshitiz GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=KshitizGIT&count_private=true&hide_border=true&show_icons=true" />
 
