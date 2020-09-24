@@ -1,6 +1,6 @@
 ### Hi, I'm Kshitiz Shakya :wave: - aka [KshitizGIT][website]
 
-## I'm Software Engineer, Freelancer, and Blogger!
+## I'm a Software Engineer, Freelancer, and Blogger!
 
 - :goal_net: My goal is to become a Software Architect.
 - :palm_tree: I am looking to contribute to open source projects.
