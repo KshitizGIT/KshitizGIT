@@ -15,6 +15,7 @@
 [<img align="left" alt="kshitiz | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 [<img align="left" alt="kshitiz | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 <br />
+<br />
 
 ### Languages and Tools
 [<img align="left" alt="dotnet" width="26px" src="https://raw.githubusercontent.com/github/explore/93d8a67084f94b2a444e510199a6e7622e5b09a3/topics/dotnet/dotnet.png" />][website]
@@ -31,9 +32,22 @@
 [<img align="left" alt="vscode" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vim]
 [<img align="left" alt="Vim" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vim/vim.png" />][vim]
 <br />
+<br />
+
+---
+
+
+### :closed_book: Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+<br />
+<br />
 
 
 ---
+
+
 <img align="left" alt="Kshitiz GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=KshitizGIT&count_private=true&hide_border=true&show_icons=true" />
 
 [website]: https://kshitizshakya.com.np
