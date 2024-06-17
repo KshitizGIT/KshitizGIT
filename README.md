@@ -5,7 +5,6 @@
 - :goal_net: My goal is to become a Software Architect.
 - :palm_tree: I am looking to contribute to open source projects.
 - :seedling: I am currently learning everything. :joy:
-- :muscle: 2021 Goals: I want to write more blog posts.
 - :zap: Fun Fact: I am a die hard fan of One Piece
 
 ### Connect with me:
